@@ -18,6 +18,7 @@ Enjoy!
 
 Have a suggested change or improvement? Shoot me a message and I will look into implementing it!
 
+Gameplay:
 
 ![pysweepergameplay](https://cloud.githubusercontent.com/assets/21327492/21037067/a9c2d0d4-bd98-11e6-98fc-741a8597289e.jpg)
 
