@@ -18,3 +18,11 @@ Enjoy!
 
 Have a suggested change or improvement? Shoot me a message and I will look into implementing it!
 
+
+![pysweepergameplay](https://cloud.githubusercontent.com/assets/21327492/21037067/a9c2d0d4-bd98-11e6-98fc-741a8597289e.jpg)
+
+![pysweeperlose](https://cloud.githubusercontent.com/assets/21327492/21037077/be54090a-bd98-11e6-9ad1-53d7514a1307.jpg)
+
+![pysweeperwin](https://cloud.githubusercontent.com/assets/21327492/21037084/c5a543ea-bd98-11e6-91e9-2b8fb1574239.jpg)
+
+
